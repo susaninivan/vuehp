@@ -16,7 +16,9 @@ module.exports = defineConfig({
   //     },
   //   }
   // },
-  publicPath: `/vuelern/`,
+  // publicPath: `/vuelern/`,
+
+  publicPath: `/`,
   transpileDependencies: true
 
 
